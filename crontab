@@ -1,0 +1,2 @@
+* * * * * root echo "Hey this is a test " >> /var/log/cron.log 2>&1
+# Don't remove the empty line at the end of this file. This is required to run the cron job
